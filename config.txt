@@ -1,0 +1,2 @@
+fr.leo.dao.DaoImpl
+fr.leo.metier.MetierImpl
